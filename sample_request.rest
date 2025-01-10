@@ -1,0 +1,7 @@
+###
+POST http://localhost:5000/generate HTTP/1.1
+content-type: application/json
+
+{
+    "prompt": "The rise of renewable energy technologies has revolutionized the global energy sector. Solar and wind power are now the fastest-growing sources of electricity, driven by advancements in technology and declining costs. Governments around the world are implementing policies to accelerate the transition to cleaner energy. However, challenges remain, including the need for improved energy storage solutions and updates to aging grid infrastructures. Despite these hurdles, experts believe that renewable energy will dominate electricity production by 2050, significantly reducing greenhouse gas emissions."
+}

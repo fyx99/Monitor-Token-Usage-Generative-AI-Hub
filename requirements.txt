@@ -1,0 +1,4 @@
+requests
+hdbcli
+flask
+generative-ai-hub-sdk
